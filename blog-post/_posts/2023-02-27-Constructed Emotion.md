@@ -35,19 +35,20 @@ Think about a police officer who has been on the job for 12 hours and is about t
 <p>The brain processes sensations of smell and taste from chemicals transformed by air pressure and light changes. Given that it has no idea what they are, our brain has to account for them in its spending plans. It has to figure out what to do next to keep us alive. Still, it only has access to the results of events. It needs more information about the causes or strategies for achieving its goal. To guess what the sense data mean, our brain engages in a process known as body budgeting, in which it conjures or reinstates past experiences. From infancy to the grave, our brains serve this purpose. To keep us alive, it processes information from our internal and external senses, using knowledge gained over time. There is no awareness of anything.</p>
 
 <p>If time were to stop suddenly, what would occur? The human mind would be processing the recent events and drawing on stored knowledge to predict what would come next:</p>
-<ul><center><img src="{{ site.url }}{{ site.baseurl }}/blog-post/img/Constructed Emotion/conemo4.webp" width=200 height=200></center>
+<center><img src="{{ site.url }}{{ site.baseurl }}/blog-post/img/Constructed Emotion/conemo4.webp" width=200 height=200></center>
+<ul>
 <li>What we would see.
 <li>What we would hear.
 <li>How we would feel.
 <li>What would happen to our bodies.
 <li>What we should do.
-</ul>
+<!-- </ul> -->
 <p>The brain then awaits sense data from the external environment and the body to confirm or refute its predictions, after which the sensations and actions are prepared.</p>
 
 <h2>Constructed emotions in law enforcement</h2>
 <p>Officers in the law enforcement community are frequently put in situations where they must make split-second judgements under intense stress. The stakes are incredibly high, so they can only afford to make mistakes. Decisions in emotionally charged situations can be better understood with the help of the theory of constructed emotion (TCE). So that it can meet both the short-term needs for learning and motor coordination and the long-term needs for growth, survival, and long-term reproduction, the brain's primary function, according to this theory, is to regulate physiological resources predictably.</p>
 
-<center><img src="{{ site.url }}{{ site.baseurl }}/blog-post/img/Constructed Emotion/Mob_brain_standing_in_law_court_room_having_case_on_him_and_eve_c4f12ec5-8da6-4489-840d-5210df66b809.png" width=250 height=250</center><p>Going back to our original example, the TCE notes that the officer's subconscious experiences of higher levels of peripheral physiological arousal will predictably affect the officer's perception and behaviour. We will assume that the police officer has yet to be made intentionally unaware of these changes. A person's perception and behaviour are influenced by the presence or likelihood of threats that would necessitate the current level of physical arousal. These predictions are formed based on their emotional state. Two cups of coffee, a request to keep an eye out for a prowler, and the rest of the officer's day have all contributed to his current mood.</p>
+<center><img src="{{ site.url }}{{ site.baseurl }}/blog-post/img/Constructed Emotion/Mob_brain_standing_in_law_court_room_having_case_on_him_and_eve_c4f12ec5-8da6-4489-840d-5210df66b809.png" width=250 height=250></center><p>Going back to our original example, the TCE notes that the officer's subconscious experiences of higher levels of peripheral physiological arousal will predictably affect the officer's perception and behaviour. We will assume that the police officer has yet to be made intentionally unaware of these changes. A person's perception and behaviour are influenced by the presence or likelihood of threats that would necessitate the current level of physical arousal. These predictions are formed based on their emotional state. Two cups of coffee, a request to keep an eye out for a prowler, and the rest of the officer's day have all contributed to his current mood.</p>
 
 <p>Two cups of coffee, a request to keep an eye out for a prowler, and the rest of the officer's day have all contributed to his current mood.</p>
 
